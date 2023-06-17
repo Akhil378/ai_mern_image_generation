@@ -1,4 +1,4 @@
-# An AI Image Generation App.
+# An AI Image Generation App powered by OpenAI.
 
 
 
