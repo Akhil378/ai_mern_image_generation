@@ -1,4 +1,4 @@
-# An AI Image Generation App powered by OpenAI(DALL-E).
+# An AI Image Generation App powered by OpenAI (DALL-E API)
 
 
 
